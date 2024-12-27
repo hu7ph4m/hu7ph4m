@@ -2,7 +2,7 @@
 <!-- viết vào đây  -->
 # Welcome to My GitHub Profile
 
-![Space](https://example.com/space-image.svg)
+![Space](https://cdn.wallpapersafari.com/94/13/qH6iDe.jpg)
 
 ## About Me
 Hi, I'm [Your Name], a passionate developer with a love for space and technology.

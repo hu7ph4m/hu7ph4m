@@ -1,8 +1,6 @@
 
 # Welcome to My GitHub Profile
 
-![Space](https://images.wallpapersden.com/image/download/sci-fi-astronaut-4k-dark_bG1qbGqUmZqaraWkpJRobWllrWZlbWU.jpg)
-
 ## About Me
 Hi, I'm Phạm Gia Huy, a intern developer with a love for space and technology.
 
